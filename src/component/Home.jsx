@@ -1,6 +1,6 @@
 import React from "react";
 import Typical from "react-typical";
-import pic from '../../public/photo.avif'
+import pic from '../../public/hasan.jpg'
 import { FaFacebook } from "react-icons/fa6";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { FaInstagram } from "react-icons/fa";
